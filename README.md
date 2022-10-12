@@ -1,7 +1,4 @@
 # MadLibs
-Halloween Mad Libs
-
-# MadLibs
 Unit 2 Using Objects / String Methods
 
 # Using Java Objects, Strings, and String Methods
