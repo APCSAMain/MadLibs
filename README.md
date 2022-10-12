@@ -1,7 +1,5 @@
 # MadLibs
-Unit 2 Using Objects / String Methods
-
-# Using Java Objects, Strings, and String Methods
+## Using Java Objects, Strings, and String Methods
 
 In this Unit 2 project you will be creating your own **Halloween Themed Mad Lib**.
 With this game you will continue to demonstrate how to create your own user defined object(s)
