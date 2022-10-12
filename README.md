@@ -11,11 +11,11 @@ An example of a traditional MadLib is included within this repo in pdf form for 
   * Using any Java concepts outside of these units will result in point reductions
   * Your project AND code MUST be your own (not a copy from a third party)
   * Your idea must have a **Halloween theme** and be appropriate for a public forum
-  * The *MadLib* class will contain the "behind the scenes" material for your MadLib game including:
+  * The *MadLibs* class will contain the "behind the scenes" material for your MadLib game including:
        * all instance variables,
        * all constructors,
        * and class methods necessary for your game to be complete
-  * The *PlayMadLib* class will contain the main method where your MadLib game is actually played.
+  * The *PlayMadLibs* class will contain the main method where your MadLib game is actually played.
   * Your main method should include instantiation and calls for:
        * Your user input (Scanner class),
        * MadLib object(s),
