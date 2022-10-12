@@ -7,8 +7,8 @@ with its (their) own "state" and "behavior" while also using Scanner, Strings an
 An example of a traditional MadLib is included within this repo in pdf form for your reference.
 
 ### Project Specifications
-  * You may ONLY use Java concepts from Unit 1 Primitive Types and Unit 2 Using Objects
-  * Using any Java concepts outside of the first 2 Units will result in point reductions
+  * You may ONLY use Java concepts from Unit 1 Primitive Types, Unit 2 Using Objects, and Unit 5 Writing Classes Sections 5.1 - 5.3 only
+  * Using any Java concepts outside of these units will result in point reductions
   * Your project AND code MUST be your own (not a copy from a third party)
   * Your idea must have a **Halloween theme** and be appropriate for a public forum
   * The *MadLib* class will contain the "behind the scenes" material for your MadLib game including:
